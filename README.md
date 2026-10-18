@@ -7,12 +7,12 @@ To conduct load test on separately excited generators and to obtain the characte
 Apparatus Required:
 
 Sl .no	Apparatus	Range	Type	Quantity
-1	Volt meter	(0-300)V	MC	1
-2	Ammeter	(0-2.5)A	MC	1
-3	Ammeter	(0-5)A	MC	1
-4	Rheostat		Wire wouned	1
-5	Rheostat		Wire wouned	1
-6	Connecting wires	-	-	As required
+1)	Volt meter	(0-300)V	MC	1
+2)	Ammeter	(0-2.5)A	MC	1
+3)	Ammeter	(0-5)A	MC	1
+4)  Rheostat		Wire wouned	1
+5)	Rheostat		Wire wouned	1
+6)	Connecting wires	-	-	As required
 
 Fuse rating calculation for field and armature:
 
@@ -30,6 +30,7 @@ Precautions
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   The DPST switch must be kept open.Procedure for open circuit test
+
 Procedure
 1.   Connections are given as per the circuit diagram.
 2.   The motor is started with the help of THREE POINT starter.
@@ -49,15 +50,26 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+<img width="2740" height="1540" alt="load_observation_table_v2" src="https://github.com/user-attachments/assets/462d0434-3ae9-4141-8f31-ae4249534d19" />
+
 Tabulation for Load Test:
 
+<img width="1600" height="960" alt="occ_observation_table_v3" src="https://github.com/user-attachments/assets/a52ad655-4733-4620-99b6-f3b6a7aef495" />
+
 Model graph:
-Calculation: 
 
-Open circuit characteristics
+<img width="1030" height="313" alt="graph-1" src="https://github.com/user-attachments/assets/1b7a8882-2ff8-448b-82fd-65db1d374c9f" />
+<img width="1124" height="537" alt="graph-2" src="https://github.com/user-attachments/assets/aacdf21a-e668-4f0c-9ca4-c5885a24bdd6" />
 
+Open circuit characteristics:
+
+<img width="873" height="784" alt="open circuit characteristics" src="https://github.com/user-attachments/assets/192d1164-c027-4dca-9a7f-35b09732edec" />
   
 Load Characteristics:
- 
+
+<img width="1107" height="872" alt="Load characteristics" src="https://github.com/user-attachments/assets/1ad8d58f-d003-4923-b40b-bef2f398370a" />
+
+
 Result:
+
 The load test on separately excited generators and to obtain the characteristics was verified.
